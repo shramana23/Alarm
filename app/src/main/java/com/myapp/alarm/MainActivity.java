@@ -127,7 +127,7 @@ public class MainActivity extends AppCompatActivity {
 //                setAlarmText("You clicked a " + " canceled");
 //            }
 //        });
-
+// change
 
         stop_alarm.setOnClickListener(new View.OnClickListener() {
 //            @Override
